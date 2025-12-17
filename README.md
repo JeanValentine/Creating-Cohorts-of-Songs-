@@ -31,3 +31,15 @@ The variables such as birth year, education, income, and others pertain to the f
    * Determine the country with the highest number of customers who accepted the last campaign.
    * Investigate if there is a discernible pattern in the number of children at home and the total expenditure.
    * Analyze the educational background of customers who lodged complaints in the last two years.
+
+  # Output: 
+  ![OUTPUT](1.png)
+  ![OUTPUT](2.png)
+  ![OUTPUT](3.png)
+  ![OUTPUT](4.png)
+  ![OUTPUT](5.png)
+  ![OUTPUT](6.png)
+  ![OUTPUT](7.png)
+  ![OUTPUT](8.png)
+  ![OUTPUT](9.png)
+  ![OUTPUT](10.png)
