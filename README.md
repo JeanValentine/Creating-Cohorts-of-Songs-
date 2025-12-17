@@ -16,18 +16,18 @@ The variables such as birth year, education, income, and others pertain to the f
 1. After importing the data, examine variables such as Dt_Customer and Income to verify their accurate importation.
 2. There are missing income values for some customers. Conduct missing value imputation, considering that customers with similar education and marital status tend to have comparable yearly incomes, on average. It may be necessary to cleanse the data before proceeding. Specifically, scrutinize the categories of education and marital status for data cleaning.
 3. Create variables to represent the total number of children, age, and total spending.
-  * Derive the total purchases from the number of transactions across the three channels.
+   * Derive the total purchases from the number of transactions across the three channels.
 4. Generate box plots and histograms to gain insights into the distributions and identify outliers. Implement outlier treatment as needed.
 5. Apply ordinal and one-hot encoding based on the various types of categorical variables.
 6. Generate a heatmap to illustrate the correlation between different pairs of variables.
 7. Test the following hypotheses:
-  * Older individuals may not possess the same level of technological proficiency and may, therefore, lean toward traditional in-store shopping preferences.
-  * Customers with children likely experience time constraints, making online shopping a more convenient option.
-  * Sales at physical stores may face the risk of cannibalization by alternative distribution channels.
-  * Does the United States significantly outperform the rest of the world in total purchase volumes?
+   * Older individuals may not possess the same level of technological proficiency and may, therefore, lean toward traditional in-store shopping preferences.
+   * Customers with children likely experience time constraints, making online shopping a more convenient option.
+   * Sales at physical stores may face the risk of cannibalization by alternative distribution channels.
+   * Does the United States significantly outperform the rest of the world in total purchase volumes?
 8. Use appropriate visualization to help analyze the following:
-  * Identify the top-performing products and those with the lowest revenue.
-  * Examine if there is a correlation between customers' age and the acceptance rate of the last campaign.
-  * Determine the country with the highest number of customers who accepted the last campaign.
-  * Investigate if there is a discernible pattern in the number of children at home and the total expenditure.
-  * Analyze the educational background of customers who lodged complaints in the last two years.
+   * Identify the top-performing products and those with the lowest revenue.
+   * Examine if there is a correlation between customers' age and the acceptance rate of the last campaign.
+   * Determine the country with the highest number of customers who accepted the last campaign.
+   * Investigate if there is a discernible pattern in the number of children at home and the total expenditure.
+   * Analyze the educational background of customers who lodged complaints in the last two years.
